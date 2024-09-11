@@ -4,4 +4,4 @@
 
 # Ekran görüntüsü
 
-![](Udemig.gif)# Udemig-Edu
+![](Udemig.gif)
