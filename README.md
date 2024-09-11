@@ -5,5 +5,3 @@
 # Ekran görüntüsü
 
 ![](Udemig.gif)# Udemig-Edu
-
-# Udemig-Edu
