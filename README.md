@@ -1,6 +1,6 @@
 # Udemig-Edu
 
-# Udemig Akademi'yi tanıtım Projesi
+# Udemig Akademi'ye ait site projesi
 
 # Ekran görüntüsü
 
